@@ -26,7 +26,7 @@
     "@mui/x-date-pickers": "5.0.19",
     "apexcharts": "3.37.0",
     "axios": "^1.4.0",
-    "date-fns": "2.29.3",
+    "date-fns": "2.30.0",
     "formik": "2.2.9",
     "framer-motion": "^10.15.2",
     "next": "13.1.6",
