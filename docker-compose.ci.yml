@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  backend:
+    image: "todo-go-backend:latest"
+
+  frontend:
+    image: "todo-go-frontend:latest"
